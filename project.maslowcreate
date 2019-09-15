@@ -100,7 +100,7 @@
         {
             "atomType": "Molecule",
             "name": "Processor",
-            "x": 69,
+            "x": 70,
             "y": 209,
             "uniqueID": 738382,
             "ioValues": [],
@@ -109,17 +109,17 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 105,
-                    "y": 125,
+                    "x": 109,
+                    "y": 130,
                     "uniqueID": 187619,
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 20
+                            "ioValue": 18
                         },
                         {
                             "name": "y length",
-                            "ioValue": 30
+                            "ioValue": 20
                         }
                     ]
                 },
@@ -204,12 +204,46 @@
         {
             "atomType": "Molecule",
             "name": "USB Plug",
-            "x": 71,
-            "y": 280,
+            "x": 70,
+            "y": 283,
             "uniqueID": 427876,
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 140,
+                    "y": 157,
+                    "uniqueID": 937772,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 269,
+                    "y": 184,
+                    "uniqueID": 675720,
+                    "ioValues": [
+                        {
+                            "name": "geometry",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "height",
+                            "ioValue": 10
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -249,28 +283,49 @@
                 {
                     "atomType": "Molecule",
                     "name": "Processor",
-                    "x": 69,
+                    "x": 70,
                     "y": 209,
                     "uniqueID": 738382,
                     "ioValues": []
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 205,
+                    "y": 194,
+                    "uniqueID": 412471,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 19
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
                     "atomType": "Molecule",
                     "name": "USB Plug",
-                    "x": 71,
-                    "y": 280,
+                    "x": 70,
+                    "y": 283,
                     "uniqueID": 427876,
                     "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 402,
-                    "y": 131,
+                    "x": 399,
+                    "y": 133,
                     "uniqueID": 150924,
                     "ioValues": [
                         {
-                            "name": "3D shape 408052",
+                            "name": "3D shape 182348",
                             "ioValue": ""
                         },
                         {
@@ -278,11 +333,11 @@
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 912956",
+                            "name": "3D shape 408052",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 408052",
+                            "name": "3D shape 182348",
                             "ioValue": 10
                         }
                     ],
@@ -320,8 +375,14 @@
                 },
                 {
                     "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 912956",
+                    "ap2Name": "geometry",
                     "ap1ID": 738382,
+                    "ap2ID": 412471
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 408052",
+                    "ap1ID": 412471,
                     "ap2ID": 150924
                 },
                 {
