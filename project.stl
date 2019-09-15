@@ -1,0 +1,170 @@
+solid JSxCAD
+facet normal -1 0 0
+outer loop
+vertex -14.5 29 0
+vertex -14.5 -29 1
+vertex -14.5 29 1
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -14.5 -29 1
+vertex -14.5 29 0
+vertex -14.5 -29 0
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -14.5 29 0
+vertex 14.5 29 1
+vertex 14.5 29 0
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 14.5 29 1
+vertex -14.5 29 0
+vertex -14.5 29 1
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 14.5 -29 0
+vertex 14.5 29 1
+vertex 14.5 -29 1
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 14.5 29 1
+vertex 14.5 -29 0
+vertex 14.5 29 0
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -14.5 -29 1
+vertex 14.5 -29 0
+vertex 14.5 -29 1
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 14.5 -29 0
+vertex -14.5 -29 1
+vertex -14.5 -29 0
+endloop
+endfacet
+facet normal 0 0 0.9999999999999999
+outer loop
+vertex -14.5 29 1
+vertex 14.5 -29 1
+vertex 14.5 29 1
+endloop
+endfacet
+facet normal 0 0 0.9999999999999999
+outer loop
+vertex 14.5 -29 1
+vertex -14.5 29 1
+vertex -14.5 -29 1
+endloop
+endfacet
+facet normal 0 0 -0.9999999999999999
+outer loop
+vertex 14.5 -29 0
+vertex -14.5 29 0
+vertex 14.5 29 0
+endloop
+endfacet
+facet normal 0 0 -0.9999999999999999
+outer loop
+vertex -14.5 29 0
+vertex 14.5 -29 0
+vertex -14.5 -29 0
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -10 15 -1
+vertex -10 -15 0
+vertex -10 15 0
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -10 -15 0
+vertex -10 15 -1
+vertex -10 -15 -1
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -10 15 -1
+vertex 10 15 0
+vertex 10 15 -1
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 10 15 0
+vertex -10 15 -1
+vertex -10 15 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 10 -15 -1
+vertex 10 15 0
+vertex 10 -15 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 10 15 0
+vertex 10 -15 -1
+vertex 10 15 -1
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -10 -15 0
+vertex 10 -15 -1
+vertex 10 -15 0
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 10 -15 -1
+vertex -10 -15 0
+vertex -10 -15 -1
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -10 15 0
+vertex 10 -15 0
+vertex 10 15 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 10 -15 0
+vertex -10 15 0
+vertex -10 -15 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 10 -15 -1
+vertex -10 15 -1
+vertex 10 15 -1
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -10 15 -1
+vertex 10 -15 -1
+vertex -10 -15 -1
+endloop
+endfacet
+endsolid JSxCAD
