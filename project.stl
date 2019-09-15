@@ -181,4 +181,88 @@ vertex 9 9 -1
 vertex -9 9 -1
 endloop
 endfacet
+facet normal -1 0 0
+outer loop
+vertex -9 -2.75 -2.5
+vertex -9 2.75 0
+vertex -9 2.75 -2.5
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -9 2.75 0
+vertex -9 -2.75 -2.5
+vertex -9 -2.75 0
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -9 2.75 -2.5
+vertex -1 2.75 0
+vertex -1 2.75 -2.5
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -1 2.75 0
+vertex -9 2.75 -2.5
+vertex -9 2.75 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -1 -2.75 -2.5
+vertex -1 2.75 0
+vertex -1 -2.75 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -1 2.75 0
+vertex -1 -2.75 -2.5
+vertex -1 2.75 -2.5
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -9 -2.75 0
+vertex -1 -2.75 -2.5
+vertex -1 -2.75 0
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -1 -2.75 -2.5
+vertex -9 -2.75 0
+vertex -9 -2.75 -2.5
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -9 2.75 0
+vertex -1 -2.75 0
+vertex -1 2.75 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -1 -2.75 0
+vertex -9 2.75 0
+vertex -9 -2.75 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -9 -2.75 -2.5
+vertex -1 2.75 -2.5
+vertex -1 -2.75 -2.5
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -1 2.75 -2.5
+vertex -9 -2.75 -2.5
+vertex -9 2.75 -2.5
+endloop
+endfacet
 endsolid JSxCAD
