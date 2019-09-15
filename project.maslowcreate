@@ -544,15 +544,15 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 877,
-                    "y": 137,
+                    "x": 876,
+                    "y": 146,
                     "uniqueID": 587750,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "name",
-                        "numberNeeded": 0,
-                        "costUSD": 0,
-                        "source": "www.example.com",
+                        "BOMitemName": "ESP32",
+                        "numberNeeded": 1,
+                        "costUSD": 4.4,
+                        "source": "https://www.aliexpress.com/item/32928267626.html",
                         "totalNeeded": 0
                     }
                 },

@@ -2,7 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|name|0|$0.00|www.example.com|
-|Total: |0|$0.00| |
+|ESP32|1|$4.40|https://www.aliexpress.com/item/32928267626.html|
+|Total: |1|$4.40| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $13.20
