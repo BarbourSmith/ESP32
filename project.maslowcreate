@@ -80,7 +80,7 @@
         {
             "atomType": "Molecule",
             "name": "Headers",
-            "x": 59,
+            "x": 47,
             "y": 119,
             "uniqueID": 911102,
             "ioValues": [],
@@ -106,21 +106,21 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 292,
-                    "y": 151,
+                    "x": 290,
+                    "y": 156,
                     "uniqueID": 797842,
                     "ioValues": [
                         {
                             "name": "height",
-                            "ioValue": 10
+                            "ioValue": 2.5
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 446,
-                    "y": 80,
+                    "x": 456,
+                    "y": 74,
                     "uniqueID": 353185,
                     "ioValues": [
                         {
@@ -133,15 +133,15 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -10
+                            "ioValue": 1
                         }
                     ]
                 },
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 455,
-                    "y": 265,
+                    "x": 450,
+                    "y": 262,
                     "uniqueID": 647746,
                     "ioValues": [
                         {
@@ -154,7 +154,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -10
+                            "ioValue": 1
                         }
                     ]
                 },
@@ -444,7 +444,7 @@
                 {
                     "atomType": "Molecule",
                     "name": "Headers",
-                    "x": 59,
+                    "x": 47,
                     "y": 119,
                     "uniqueID": 911102,
                     "ioValues": []
@@ -544,8 +544,8 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 876,
-                    "y": 146,
+                    "x": 871,
+                    "y": 140,
                     "uniqueID": 587750,
                     "ioValues": [],
                     "BOMitem": {
