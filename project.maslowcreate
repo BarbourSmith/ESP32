@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "PCB",
-            "x": 78,
-            "y": 40,
+            "x": 73,
+            "y": 64,
             "uniqueID": 164800,
             "ioValues": [],
             "topLevel": false,
@@ -46,13 +46,13 @@
                     "y": 93,
                     "uniqueID": 785549,
                     "ioValues": [],
-                    "selectedColorIndex": "2"
+                    "selectedColorIndex": "11"
                 },
                 {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -80,8 +80,8 @@
         {
             "atomType": "Molecule",
             "name": "Headers",
-            "x": 47,
-            "y": 119,
+            "x": 65,
+            "y": 130,
             "uniqueID": 911102,
             "ioValues": [],
             "topLevel": false,
@@ -188,7 +188,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -277,7 +277,7 @@
                     "y": 133,
                     "uniqueID": 329944,
                     "ioValues": [],
-                    "selectedColorIndex": "9"
+                    "selectedColorIndex": "10"
                 },
                 {
                     "atomType": "Translate",
@@ -304,7 +304,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -399,7 +399,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -436,16 +436,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "PCB",
-                    "x": 78,
-                    "y": 40,
+                    "x": 73,
+                    "y": 64,
                     "uniqueID": 164800,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Headers",
-                    "x": 47,
-                    "y": 119,
+                    "x": 65,
+                    "y": 130,
                     "uniqueID": 911102,
                     "ioValues": []
                 },
@@ -560,7 +560,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
